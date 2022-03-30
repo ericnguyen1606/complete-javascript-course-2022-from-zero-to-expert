@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 0px solid black;
+}
+
+.target-quare {
+    background-color: blue;
+}

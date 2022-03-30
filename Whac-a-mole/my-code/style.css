@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+
+#grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 0 0 33.333333%;
+    border: 0px solid black;
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Redbubble Email Marketing",
+    "description": "Email To Seller On Redbubble To Ask Permission About Their Products",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "redbuble.html"
+    },
+    "permissions": [
+        "tabs",
+        "bookmarks"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

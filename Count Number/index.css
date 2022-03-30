@@ -1,0 +1,12 @@
+.game {
+    text-align: center;
+}
+
+.game button {
+    background-color: brown;
+    color: white;
+}
+
+#previous {
+    background-color: green;
+}
