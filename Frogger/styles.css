@@ -1,0 +1,24 @@
+.start-block {
+    background-color: blue;
+}
+
+.ending-block {
+    background-color: red;
+}
+
+.log-left {
+    background-color: lightblue;
+}
+
+.log-right {
+    background-color: lightgray;
+}
+
+.obstacle-log-left {
+    background-color: #A52A2A;
+}
+
+
+.obstacle-log-right {
+    background-color: #FF7F50;
+}
