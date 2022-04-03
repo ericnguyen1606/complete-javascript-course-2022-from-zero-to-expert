@@ -1,0 +1,13 @@
+.invadar {
+    background-color: purple;
+    border-radius:  50%;
+}
+
+.shooter {
+    background-color: red;
+}
+
+.bullet {
+    background-color: #008B8B;
+    border-radius:  50%;
+}
